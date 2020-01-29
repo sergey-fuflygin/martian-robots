@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Robots.Robot" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACAAAAAAAAAAAEAAEAAEAAAAAAAAAAYAA=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Robots.Surface" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAwAAAAAAAAAAAAAAAAgAAAAEgAAAAAAAAIAAA=</HashCode>
+      <FileName>Surface.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Robots.InstructionReaders.CreateRobotInstructionReader" Collapsed="true">
+    <Position X="8" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAAAAAgAAAAgAAAAAAAAAAAAAAAIAQAAAAAAA=</HashCode>
+      <FileName>InstructionReaders\CreateRobotInstructionReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robots.InstructionReaders.CreateSurfaceInstructionReader" Collapsed="true">
+    <Position X="5" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAAAAAAI=</HashCode>
+      <FileName>InstructionReaders\CreateSurfaceInstructionReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robots.InstructionReaders.InstructionReader" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAACAAAACAgQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InstructionReaders\InstructionReader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Robots.InstructionReaders.MoveRobotInstructionReader" Collapsed="true">
+    <Position X="11" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAIAAAAAAAgA=</HashCode>
+      <FileName>InstructionReaders\MoveRobotInstructionReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Robots.Instructions.MoveForwardInstruction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Instructions\MoveForwardInstruction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Robots.Instructions.TurnInstruction" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAQAgAgAAAAAAAAAAAAABAABAQAAAAA=</HashCode>
+      <FileName>Instructions\TurnInstruction.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="Robots.IRobot">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQACAAAAAAAAAAAEAAEAAEAAAAAAAAAAYAA=</HashCode>
+      <FileName>IRobot.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Robots.ISurface">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAAAAAAwAAAAAAAAAAAAAAAAgAAAAEgAAAAAAAAAAAA=</HashCode>
+      <FileName>ISurface.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Robots.RobotOrientation">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAQ=</HashCode>
+      <FileName>RobotOrientation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
