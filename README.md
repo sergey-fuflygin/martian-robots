@@ -29,7 +29,7 @@ exit
 ### List of assumptions
 
 - commands are sent from Earth to Mars without any delay
-- the final positions for all robots are not kept, that's why the it is printed right after robot instruction in console app
+- the final positions of all robots are not kept, that's why the position is printed in console app right after robot instruction
 - robot orientation (north, south, east, and west) can be expanded with north-east, south-east, etc.
 - robot instructions can be expanded with the following commands: about turn, backward, etc.
 
