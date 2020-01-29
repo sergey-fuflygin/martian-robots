@@ -28,7 +28,10 @@ exit
 
 ### List of assumptions that you made
 
-Dillinger uses a number of open source projects to work properly:
+- commands are sent from Earth to Mars without any delay
+- the final positions for all robots are not kept, that's why the it is printed right after robot instruction in console app
+- robot orientation (north, south, east, and west) can be expanded with north-east, south-east, etc.
+- robot instructions can be expanded with the following commands: about turn, backward, etc.
 
 ### ETA
 
