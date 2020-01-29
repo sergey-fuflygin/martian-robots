@@ -1,4 +1,4 @@
-# Martian Robots Design Overview
+# Martian Robots
 
 Solution consists of 3 projects
 
