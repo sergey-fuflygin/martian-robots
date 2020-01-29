@@ -36,3 +36,12 @@ exit
 ### ETA
 
 An estimate of how long this would take if you were asked to build the entire solution for a customer
+
+* Development - 10 hrs
+* Testing - 5 hrs
+* Communication with customer - 5 hrs
+* Bugfixing - 5 hrs
+
+In total: 25 hrs
+
+
