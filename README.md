@@ -1,7 +1,5 @@
 # Martian Robots Design Overview
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 Solution consists of 3 projects
 
   - `Robots` - project which solves the described problem
@@ -10,7 +8,7 @@ Solution consists of 3 projects
 
 ### Classes Diagram
 
-Dillinger uses a number of open source projects to work properly:
+![](https://github.com/sergey-fuflygin/martian-robots/blob/master/ClassesDiagram.png)
 
 ### Console App commands
 
