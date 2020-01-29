@@ -10,7 +10,7 @@ Solution consists of 3 projects
 
 ![](https://github.com/sergey-fuflygin/martian-robots/blob/master/ClassesDiagram.png)
 
-### Console App commands
+### Console App Input and Output
 
 ```cmd
 5 3
