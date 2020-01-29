@@ -6,7 +6,7 @@ Solution consists of 3 projects
   - `Robots.Tests` - unit tests
   - `Robots.ConsoleApp` - simple user interface to demonstrate the solution
 
-### Classes Diagram
+### Main Classes Diagram
 
 ![](https://github.com/sergey-fuflygin/martian-robots/blob/master/ClassesDiagram.png)
 
